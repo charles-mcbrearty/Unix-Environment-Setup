@@ -1,0 +1,9 @@
+These files are a handful of customizations that I find useful for the janus set of vim plugins.
+
+Also included are some extra configurations for screen and a setup script to install them and save some typing.
+
+Installation requires an install of janus already completed on the machine.
+
+Downloading the monaco font-set for linux is also a prerequisite.
+
+Once those are done, simply run the script to remap the user settings to the ones pulled from git.
