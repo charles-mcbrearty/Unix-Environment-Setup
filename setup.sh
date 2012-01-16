@@ -12,7 +12,7 @@ rm ~/.gvimrc.after
 ln -s `pwd`/gvimrc.after ~/.gvimrc.after
 
 rm ~/.janus
-ln -s `pwd`/janus ~/.janus
+ln -s `pwd`/janus-plugins ~/.janus
 
 rm ~/.screenrc
 ln -s `pwd`/screenrc ~/.screenrc
