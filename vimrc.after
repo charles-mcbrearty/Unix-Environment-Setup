@@ -1,4 +1,8 @@
 color ir_black
 set whichwrap+=<,>,h,l,[,]
-set tabstop=4
+set expandtab
+set softtabstop=4
 set shiftwidth=4
+
+autocmd FileType scala setlocal expandtab shiftwidth=4 softtabstop=4
+
