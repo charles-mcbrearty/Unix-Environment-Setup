@@ -7,5 +7,5 @@ elseif has("gui_macvim")
 end
 
 " Set default width for NERDTree panel
-let g:NERDTreeWinSize = 55
+let g:NERDTreeWinSize = 50
 
