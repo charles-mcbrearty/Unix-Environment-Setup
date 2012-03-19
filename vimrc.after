@@ -10,3 +10,11 @@ set foldmethod=indent   "fold based on indent
 set foldnestmax=10      "deepest fold is 10 levels
 set nofoldenable        "dont fold by default
 set foldlevel=1         "this is just what i use
+
+set wrap
+set linebreak
+set nolist
+set textwidth=0
+set wrapmargin=0
+" these 5 lines should set up vim to visually wrap lines that don't fit on the 
+" screen without actually inserting linebreaks into the file.
